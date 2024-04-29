@@ -67,6 +67,7 @@ body {
 .catogories {
   display: flex;
   padding: 10px;
+  flex-wrap: wrap;
   border-bottom: solid 1px black;
   justify-content: space-between;
 }
